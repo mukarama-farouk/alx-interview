@@ -2,8 +2,10 @@
 
 This implementation uses a depth-first search (DFS) approach to explore the boxes and keeps track of the keys using a set. The function returns True if all boxes can be opened and False otherwise. The provided example usage assumes that each box contains a list of keys to other boxes, and an empty list represents a box with no keys.
 
+--------------------------------------------------------------------------------------------------------------------------------------------
+
 **Requirements**
-*General*
+**General**
 
 1. Allowed editors: vi, vim, emacs
 2. All your files will be interpreted/compiled on Ubuntu 20.04 LTS using python3 (version 3.4.3)
